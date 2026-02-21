@@ -1,5 +1,4 @@
-fastapi
-uvicorn
-httpx
-python-dotenv
-spotipy
+streamlit>=1.50.0
+pandas>=2.0.0
+ortools>=9.0.0
+numpy>=1.23.0
